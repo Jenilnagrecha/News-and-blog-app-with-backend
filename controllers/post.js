@@ -1,1 +1,3 @@
-exports.createPost = (req,res) => {};
+exports.createPost = (req,res) => {
+    
+};
